@@ -11,7 +11,7 @@ Frontend Developer
 🚀 Passionate about clean UI, responsive design, and bringing ideas to life with code.
 
 *   🌍  I'm based in Denver
-*   ✉️  You can contact me at [dbetter66@gmail.com](mailto:dbetter66@gmail.com)
+*   ✉️  You can contact me at [danupsoft@gmail.com](mailto:danupsoft@gmail.com)
 *   🚀  I'm currently working on [Skinstric AI](http://skinstric-ai-beryl.vercel.app/)
 *   🤝  I'm open to collaborating on any frontend projects that involve AI and building innovative creative websites
 *   Fluent in Spanish and English
