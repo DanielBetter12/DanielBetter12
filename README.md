@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Daniel Better
 =====================================================================================================================================
 
-Frontend Developer
+Full-Stack Software Engineer
 ------------------
 
-👋 Hi, I'm a frontend developer with a background in sound design. I recently finished a bootcamp program called Frontend Simplified.
+👋 Hi, I'm a Full-Stack Software Engineer with 6+ years of experience architecting and implementing enterprise-grade web applications. I recently finished a bootcamp program called Frontend Simplified.
 
 💻 I've built multiple projects and completed two internships — one with Skinstric, an AI skincare company, and another with Frontend Simplified, contributing to real-world features.
 
